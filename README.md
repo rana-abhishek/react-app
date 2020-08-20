@@ -1,4 +1,4 @@
-![CI/CD](https://github.com/rana-abhishek/react-app/workflows/CI-CD/badge.svg)
+![CI-CD](https://github.com/rana-abhishek/react-app/workflows/CI-CD/badge.svg)
 [![codecov](https://codecov.io/gh/rana-abhishek/react-app/branch/master/graph/badge.svg)](https://codecov.io/gh/rana-abhishek/react-app)
 
 
